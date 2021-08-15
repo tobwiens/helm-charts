@@ -20,7 +20,7 @@ entries:
     sources:
     - https://github.com/runatlantis/atlantis
     urls:
-    - https://github.com/runatlantis/helm-charts/releases/download/atlantis-3.14.0/atlantis-3.14.0.tgz
+    - https://github.com/tobwiens/helm-charts/releases/download/atlantis-3.14.0/atlantis-3.14.0.tgz
     version: 3.14.0
   - apiVersion: v1
     appVersion: v0.17.0
